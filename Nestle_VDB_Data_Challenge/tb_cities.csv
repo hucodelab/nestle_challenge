@@ -1,0 +1,334 @@
+id_cidade;esta_disponivel;cidade;estado;uf;pais
+5f517b48c13e960021459f0c;false;Campinas;São Paulo;SP;Brasil
+5f6a179af309620021ca264d;true;São Paulo;São Paulo;SP;Brasil
+5f760d9d6ab32d0021e8b67c;false;Bento Gonçalves;Rio Grande do Sul;RS;Brasil
+5f7dc164f266b40021daebf2;false;Ribeirão Preto;São Paulo;SP;Brasil
+5f8788604c809d002148ab24;false;Osasco;São Paulo;SP;Brasil
+5f8ca2c317f3b3002134fcab;false;Angra dos Reis;Rio de Janeiro;RJ;Brasil
+5f8ca7e217f3b300213505bd;false;Aracaju;Sergipe;SE;Brasil
+5f8ca9a017f3b30021350847;false;Carazinho;Rio Grande do Sul;RS;Brasil
+5f8cc71e17f3b30021352d7a;false;Rio de Janeiro;Rio de Janeiro;RJ;Brasil
+5f8cd3e048de890021a674d5;false;Guarujá;São Paulo;SP;Brasil
+5f8cd6ef48de890021a67a83;false;Natal;Rio Grande do Norte;RN;Brasil
+5f8cdeea48de890021a684be;false;Maceió;Alagoas;AL;Brasil
+5f8cffac48de890021a69b22;false;Santos;São Paulo;SP;Brasil
+5f8d397548de890021a6be87;false;Guarulhos;São Paulo;SP;Brasil
+5f8d5f1c48de890021a6ce88;false;Brasília;Distrito Federal;DF;Brasil
+5f8d685948de890021a6d1d3;false;Itatiaia;Rio de Janeiro;RJ;Brasil
+5f8d791a48de890021a6d981;false;Itatiba;São Paulo;SP;Brasil
+5f8d808048de890021a6e558;false;Santa Luzia;Minas Gerais;MG;Brasil
+5f8d816448de890021a6e5cf;false;Volta Redonda;Rio de Janeiro;RJ;Brasil
+5f8d88bf48de890021a6f271;false;Carapebus;Espírito Santo;ES;Brasil
+5f8d925b48de890021a6ffc1;false;Arujá;São Paulo;SP;Brasil
+5f8d96a648de890021a70674;false;São Bernardo do Campo;São Paulo;SP;Brasil
+5f8da1da48de890021a71c8b;false;Taboão da Serra;São Paulo;SP;Brasil
+5f8da61f48de890021a72626;false;São José dos Campos;São Paulo;SP;Brasil
+5f8da7ff48de890021a727f8;false;Porto Alegre;Rio Grande do Sul;RS;Brasil
+5f8da83c48de890021a728a8;true;Santo André;São Paulo;SP;Brasil
+5f8db3fe48de890021a74791;false;Barra Mansa;Rio de Janeiro;RJ;Brasil
+5f8db5ee48de890021a7485a;false;Barueri;São Paulo;SP;Brasil
+5f8dbaf948de890021a7509b;false;Curitiba;Paraná;PR;Brasil
+5f8dbca848de890021a753b7;false;Niterói;Rio de Janeiro;RJ;Brasil
+5f8dc0c648de890021a76a2d;false;Diadema;São Paulo;SP;Brasil
+5f8dc16348de890021a77019;false;Santana de Parnaíba;São Paulo;SP;Brasil
+5f8dcb7e48de890021a78396;false;Belo Horizonte;Minas Gerais;MG;Brasil
+5f8dd59448de890021a7971e;false;Taubaté;São Paulo;SP;Brasil
+5f8dda1c48de890021a7a1ac;false;Valinhos;São Paulo;SP;Brasil
+5f8ddbd148de890021a7a3be;false;Avaré;São Paulo;SP;Brasil
+5f8dde0e48de890021a7a74d;false;Sabino;São Paulo;SP;Brasil
+5f8dfea948de890021a7e0d2;false;Fortaleza;Ceará;CE;Brasil
+5f8e03ce48de890021a7e858;false;Poá;São Paulo;SP;Brasil
+5f8e14cb48de890021a81820;false;São Gonçalo;Rio de Janeiro;RJ;Brasil
+5f8e16e248de890021a81f47;false;Ibiúna;São Paulo;SP;Brasil
+5f8e3142002de60021d0c724;false;Itapevi;São Paulo;SP;Brasil
+5f8e3586002de60021d0cc60;false;São Paulo de Olivença;Amazonas;AM;Brasil
+5f8e565a002de60021d0e90c;false;Manaus;Amazonas;AM;Brasil
+5f8e6de4002de60021d104fe;false;Embu das Artes;São Paulo;SP;Brasil
+5f8ed619002de60021d13db4;false;Marília;São Paulo;SP;Brasil
+5f8ed638002de60021d13dbd;false;Bauru;São Paulo;SP;Brasil
+5f8ef2d0002de60021d1610a;false;Campo Grande;Mato Grosso do Sul;MS;Brasil
+5f8ef6d2002de60021d167c7;false;Maringá;Paraná;PR;Brasil
+5f8f11dc002de60021d19f7c;false;Salvador;Bahia;BA;Brasil
+5f8f1934002de60021d1a72d;false;Jandira;São Paulo;SP;Brasil
+5f8f2d6a002de60021d1ca3d;false;Goiânia;Goiás;GO;Brasil
+5f8f3da3002de60021d1e47f;false;Esteio;Rio Grande do Sul;RS;Brasil
+5f8f4507002de60021d1eb26;false;Monte Mor;São Paulo;SP;Brasil
+5f8f457e002de60021d1eb63;false;Juiz de Fora;Minas Gerais;MG;Brasil
+5f8f473a002de60021d1edde;false;Vilhena;Rondônia;RO;Brasil
+5f8f4d91002de60021d1f4db;false;Joinville;Santa Catarina;SC;Brasil
+5f8f5124002de60021d1f84a;false;Franco da Rocha;São Paulo;SP;Brasil
+5f8f7a535418a5002102659f;false;Guarantã do Norte;Mato Grosso;MT;Brasil
+5f8fd4745418a5002102d197;false;Biguaçu;Santa Catarina;SC;Brasil
+5f9011575418a5002102eeb4;false;Vinhedo;São Paulo;SP;Brasil
+5f9028a85418a5002103003b;false;Carapicuíba;São Paulo;SP;Brasil
+5f902fab5418a5002103086b;false;Luanda;Pernambuco;PE;Brasil
+5f902fab5418a5002103086c;false;Luanda;Luanda;Luanda;Angola
+5f90362d5418a50021030c0c;false;Coronel Fabriciano;Minas Gerais;MG;Brasil
+5f904c0d5418a500210320ce;false;São José do Rio Preto;São Paulo;SP;Brasil
+5f904c6c5418a500210322cb;false;Sorocaba;São Paulo;SP;Brasil
+5f904c6c5418a500210322cc;false;Bagé;Rio Grande do Sul;RS;Brasil
+5f9057345418a50021034f7e;false;São Luís;Maranhão;MA;Brasil
+5f9057ce5418a500210351f2;false;Olinda;Pernambuco;PE;Brasil
+5f9058415418a50021035443;false;Suzano;São Paulo;SP;Brasil
+5f9059ac5418a50021035993;false;Formosa;Goiás;GO;Brasil
+5f905b505418a500210360d3;false;Recife;Pernambuco;PE;Brasil
+5f905fda5418a50021036bbd;false;Maricá;Rio de Janeiro;RJ;Brasil
+5f90609d5418a50021036e69;false;Bragança Paulista;São Paulo;SP;Brasil
+5f9062f85418a500210375b5;false;Andradas;Minas Gerais;MG;Brasil
+5f9064a25418a50021037a3d;false;Serra;Espírito Santo;ES;Brasil
+5f9064b25418a50021037a82;false;Vitória;Espírito Santo;ES;Brasil
+5f90650c5418a50021037ce5;false;Aparecida de Goiânia;Goiás;GO;Brasil
+5f9066a15418a5002103812c;false;Jundiaí;São Paulo;SP;Brasil
+5f9067f25418a50021038696;false;Sumaré;São Paulo;SP;Brasil
+5f90682d5418a50021038807;false;Contagem;Minas Gerais;MG;Brasil
+5f9068c35418a500210389f7;false;João Pessoa;Paraíba;PB;Brasil
+5f9069e75418a50021038ebe;false;Belo Jardim;Pernambuco;PE;Brasil
+5f906ef05418a50021039ac0;false;Manoel Ribas;Paraná;PR;Brasil
+5f9072b75418a5002103a56c;false;São Sebastião;São Paulo;SP;Brasil
+5f907bbb5418a5002103c0fa;false;Cuiabá;Mato Grosso;MT;Brasil
+5f9086ec5418a5002103dd39;false;Mogi das Cruzes;São Paulo;SP;Brasil
+5f9086f55418a5002103dd4c;false;Guararema;São Paulo;SP;Brasil
+5f908b5e5418a5002103e94e;false;Paranavaí;Paraná;PR;Brasil
+5f908d285418a5002103ed53;false;Aracruz;Espírito Santo;ES;Brasil
+5f9098495418a5002104151e;false;Nova Iguaçu;Rio de Janeiro;RJ;Brasil
+5f90a43b5418a500210432eb;false;São Carlos;São Paulo;SP;Brasil
+5f90b8d45418a50021047814;false;Garuva;Santa Catarina;SC;Brasil
+5f90c0905418a500210489b8;false;Vassouras;Rio de Janeiro;RJ;Brasil
+5f90e19b958ea600219982f6;false;Uberlândia;Minas Gerais;MG;Brasil
+5f90ec35958ea60021998df2;false;Palhoça;Santa Catarina;SC;Brasil
+5f914b61958ea6002199cc80;false;Carpina;Pernambuco;PE;Brasil
+5f917987958ea6002199fce8;false;Indaiatuba;São Paulo;SP;Brasil
+5f917b38958ea6002199ffaa;false;São Paulo do Potengi;Rio Grande do Norte;RN;Brasil
+5f9180d22b5796002157d6ad;false;Teutônia;Rio Grande do Sul;RS;Brasil
+5f919d812b5796002158081b;false;Cruzeiro;São Paulo;SP;Brasil
+5f91a19b2b579600215815cc;false;Rondonópolis;Mato Grosso;MT;Brasil
+5f91a8ed2b579600215827ce;false;Pirenópolis;Goiás;GO;Brasil
+5f91b13c2b57960021584018;false;Senador Canedo;Goiás;GO;Brasil
+5f91b47a2b5796002158678c;false;Jaú;São Paulo;SP;Brasil
+5f91b5da2b57960021586c9b;false;Criciúma;Santa Catarina;SC;Brasil
+5f91b79a2b579600215878fe;false;Cantagalo;Rio de Janeiro;RJ;Brasil
+5f91b7d02b579600215879fa;false;Canelinha;Santa Catarina;SC;Brasil
+5f91b8492b57960021587cd6;false;Blumenau;Santa Catarina;SC;Brasil
+5f91b9bc2b579600215880e3;false;Praia Grande;São Paulo;SP;Brasil
+5f91b9d02b579600215880fe;false;Nova Odessa;São Paulo;SP;Brasil
+5f91bcd42b57960021588803;false;Rosário do Sul;Rio Grande do Sul;RS;Brasil
+5f91bd492b5796002158897d;false;Juazeiro;Ceará;CE;Brasil
+5f91bd6a2b57960021588a34;false;Mossoró;Rio Grande do Norte;RN;Brasil
+5f91c0bf2b57960021588ff3;false;Santa Maria;Rio Grande do Sul;RS;Brasil
+5f91c898a1c6590021c7ce3b;false;Londrina;Paraná;PR;Brasil
+5f91c9c1a1c6590021c7d27d;false;Itaquaquecetuba;São Paulo;SP;Brasil
+5f91ce74a1c6590021c7e161;false;Ribeirão Vermelho;Minas Gerais;MG;Brasil
+5f91f78ba1c6590021c83978;false;Penedo;Alagoas;AL;Brasil
+5f921228a1c6590021c87314;false;Mauá;São Paulo;SP;Brasil
+5f921a01a1c6590021c882d8;false;Itupeva;São Paulo;SP;Brasil
+5f922d99a1c6590021c8ab6c;false;São Caetano do Sul;São Paulo;SP;Brasil
+5f923a46a1c6590021c8d357;false;Cotia;São Paulo;SP;Brasil
+5f92ae9ea1c6590021c94507;false;Rio das Ostras;Rio de Janeiro;RJ;Brasil
+5f92d38fa1c6590021c9694c;false;Linhares;Espírito Santo;ES;Brasil
+5f92d696a1c6590021c96d34;false;Itapecerica da Serra;São Paulo;SP;Brasil
+5f930e66a1c6590021c9c1ac;false;Barra do Piraí;Rio de Janeiro;RJ;Brasil
+5f931628a1c6590021c9d242;false;Arcos;Minas Gerais;MG;Brasil
+5f932ffd87460d0021eead67;false;São João de Meriti;Rio de Janeiro;RJ;Brasil
+5f93456c87460d0021eedbfb;false;Ponte Serrada;Santa Catarina;SC;Brasil
+5f936ef987460d0021ef3869;false;Sete Lagoas;Minas Gerais;MG;Brasil
+5f9378ea87460d0021ef416c;false;Boituva;São Paulo;SP;Brasil
+5f937b5d87460d0021ef42d7;false;Várzea Paulista;São Paulo;SP;Brasil
+5f93b23587460d0021ef7f31;false;Valparaíso;São Paulo;SP;Brasil
+5f94601587460d0021effefa;false;Rio Claro;São Paulo;SP;Brasil
+5f949f7dc2175400216c3569;false;Sena Madureira;Acre;AC;Brasil
+5f94e301c2175400216c70c4;false;Ponta Grossa;Paraná;PR;Brasil
+5f95333dc2175400216cbc2f;false;Caieiras;São Paulo;SP;Brasil
+5f953371c2175400216cbc34;false;Perus;Piauí;PI;Brasil
+5f959185c2175400216cebc1;false;Oriximiná;Pará;PA;Brasil
+5f95bdbfc2175400216d1005;false;Nova Friburgo;Rio de Janeiro;RJ;Brasil
+5f95e0341590b0002181ae6e;false;Cabo Frio;Rio de Janeiro;RJ;Brasil
+5f96b50e1590b00021823c25;false;Minas Gerais;Acre;AC;Brasil
+5f96b8771590b00021823ec5;false;Maputo;Maputo;Maputo;Moçambique
+5f96bd0b1590b00021824062;false;Magé;Rio de Janeiro;RJ;Brasil
+5f96fbdfa47c6f00221a4df9;false;Barretos;São Paulo;SP;Brasil
+5f971dfc44751000212bb8b6;false;Hortolândia;São Paulo;SP;Brasil
+5f97235a44751000212bd60b;false;Garanhuns;Pernambuco;PE;Brasil
+5f976fc6e820000021054597;false;Resende;Rio de Janeiro;RJ;Brasil
+5f981a04e82000002105def5;false;Teresina;Piauí;PI;Brasil
+5f9885015f7a4a0021a13c0a;false;Sud Mennucci;São Paulo;SP;Brasil
+5f988a665f7a4a0021a1442b;false;Florianópolis;Santa Catarina;SC;Brasil
+5f98c8165f7a4a0021a2900c;false;Pompéu;Minas Gerais;MG;Brasil
+5f98dc845f7a4a0021a38907;false;Leopoldina;Minas Gerais;MG;Brasil
+5f98dd905f7a4a0021a38d81;false;Santa Isabel;São Paulo;SP;Brasil
+5f98ee185f7a4a0021a3edfe;false;Cajamar;São Paulo;SP;Brasil
+5f991cfe5f7a4a0021a4783e;false;Atibaia;São Paulo;SP;Brasil
+5f99283d5f7a4a0021a49dee;false;Itanhaém;São Paulo;SP;Brasil
+5f995e085f7a4a0021a5c196;false;São José do Rio Pardo;São Paulo;SP;Brasil
+5f9987485f7a4a0021a6bbcd;false;Pinhal Alto;Rio Grande do Sul;RS;Brasil
+5f99aba790f3060021d52758;false;Jabaquara;Espírito Santo;ES;Brasil
+5f99e33c90f3060021d5b686;false;Vitória da Conquista;Bahia;BA;Brasil
+5f9a2a1190f3060021d68744;false;Jacareí;São Paulo;SP;Brasil
+5f9ae11090f3060021d7aae7;false;Piracicaba;São Paulo;SP;Brasil
+5f9b130da312270021e2c60a;false;Santa Bárbara D'Oeste;São Paulo;SP;Brasil
+5f9b594288bb2e0021b8e6b7;false;Franca;São Paulo;SP;Brasil
+5f9b7bdacda2cf0021caedb7;false;Votuporanga;São Paulo;SP;Brasil
+5f9b8077cda2cf0021caf282;false;São Paulo das Missões;Rio Grande do Sul;RS;Brasil
+5f9bd734cda2cf0021cb2862;false;Lisboa;Lisboa;Lisboa;Portugal
+5f9c188d4bc98c00218ac23b;false;Mairiporã;São Paulo;SP;Brasil
+5f9c36cc4bc98c00218b02e7;false;Sintra;Lisboa;Lisboa;Portugal
+5f9c6552346fcf002179657e;false;São João Del Rei;Minas Gerais;MG;Brasil
+5f9c6a24346fcf002179781c;false;São Mateus;Espírito Santo;ES;Brasil
+5f9c6a9c346fcf0021797927;false;Timon;Maranhão;MA;Brasil
+5f9d8e79346fcf00217b455c;false;Serrana;São Paulo;SP;Brasil
+5f9da9a730d5db002148d698;false;São Roque;São Paulo;SP;Brasil
+5f9ea27410d60a0021432f7f;false;Itajubá;Minas Gerais;MG;Brasil
+5f9ee51310d60a00214379c6;false;Barreiras;Bahia;BA;Brasil
+5f9f3fde5e7e510021e13106;false;Montes Claros;Minas Gerais;MG;Brasil
+5fa0ae65519c950021c3b69c;false;Jaguariúna;São Paulo;SP;Brasil
+5fa1438c519c950021c40552;false;Uberaba;Minas Gerais;MG;Brasil
+5fa15f42519c950021c42103;false;Cascavel;Paraná;PR;Brasil
+5fa16d19519c950021c4337b;false;Balneário Camboriú;Santa Catarina;SC;Brasil
+5fa2d98dd6424400219972c9;false;Salto;São Paulo;SP;Brasil
+5fa376aa7f20ff00219d4fed;false;Camanducaia;Minas Gerais;MG;Brasil
+5fa3b5b47f20ff00219d7d98;false;Porto Belo;Santa Catarina;SC;Brasil
+5fa3f0307f20ff00219dcf2d;false;São José dos Pinhais;Paraná;PR;Brasil
+5fa40a647f20ff00219e1095;false;Votorantim;São Paulo;SP;Brasil
+5fa490d0903a350021185c54;false;Roseira;São Paulo;SP;Brasil
+5fab52274d36ff0021e2e07a;false;Morumbi;Mato Grosso do Sul;MS;Brasil
+5fad0d1c2929b600211891fa;false;Botucatu;São Paulo;SP;Brasil
+5fafba76a4ed2e002164bacd;false;Picos;Piauí;PI;Brasil
+5fb1e81b6bcccf0021a42bae;false;Mongaguá;São Paulo;SP;Brasil
+5fb39e01f9a74300213736e5;false;Tatuí;São Paulo;SP;Brasil
+5fb40554d0953900215b413d;false;Limeira;São Paulo;SP;Brasil
+5fb41e07d0953900215bda59;false;Capivari;São Paulo;SP;Brasil
+5fb45ea9d0953900215d4d78;false;Ipiranga do Sul;Rio Grande do Sul;RS;Brasil
+5fb46e60d0953900215d9018;false;Lajeado;Rio Grande do Sul;RS;Brasil
+5fb4e5a3d0953900215e6596;false;Birigui;São Paulo;SP;Brasil
+5fb97d94f426480021d5b109;false;Monte Azul Paulista;São Paulo;SP;Brasil
+5fb97da4f426480021d5b10e;false;Colina;São Paulo;SP;Brasil
+5fb97db2f426480021d5b115;false;Bebedouro;São Paulo;SP;Brasil
+5fba0eb9f426480021d74085;false;Cabreúva;São Paulo;SP;Brasil
+5fba3ad9f426480021d7777f;false;Embu-Guaçu;São Paulo;SP;Brasil
+5fbbb9af6657130021b6d416;false;Foz do Iguaçu;Paraná;PR;Brasil
+5fbc00937aaa5b0021eb22e2;false;Campina Grande;Paraíba;PB;Brasil
+5fbc0ffa7aaa5b0021eba43f;false;Palmas;Tocantins;TO;Brasil
+5fbc102b7aaa5b0021eba5a9;false;Taquaritinga;São Paulo;SP;Brasil
+5fbc60277aaa5b0021ed9456;false;Belém;Pará;PA;Brasil
+5fbc6e4e7aaa5b0021edcde0;false;Vila Velha;Espírito Santo;ES;Brasil
+5fbcfcb97aaa5b0021ef3563;false;Araras;São Paulo;SP;Brasil
+5fbd039a7aaa5b0021ef6568;false;Timbó;Santa Catarina;SC;Brasil
+5fbd3a1a7aaa5b0021f16b24;false;Duque de Caxias;Rio de Janeiro;RJ;Brasil
+5fbd4c5292c86d0021e94233;false;Campo Limpo Paulista;São Paulo;SP;Brasil
+5fbd6a265da74a0021e49df9;false;Itu;São Paulo;SP;Brasil
+5fbd85d55da74a0021e5a6ea;false;Mogi-Guaçu;São Paulo;SP;Brasil
+5fbe9d415da74a0021ebaf55;false;Castro;Paraná;PR;Brasil
+5fbea0de5da74a0021ebcde4;false;Porto Velho;Rondônia;RO;Brasil
+5fbeb75d1c97050021f96ffc;false;Macaé;Rio de Janeiro;RJ;Brasil
+5fbefa427dcc570021f3aeea;false;Anápolis;Goiás;GO;Brasil
+5fbf293e7dcc570021f46113;false;Itabira;Minas Gerais;MG;Brasil
+5fbfdd3c7dcc570021f71bb1;false;Lins;São Paulo;SP;Brasil
+5fc00cd47dcc570021f923f7;false;Itaboraí;Rio de Janeiro;RJ;Brasil
+5fc0245c7dcc570021f9b504;false;São Paulo;Maranhão;MA;Brasil
+5fc05f559ce0e20021f96e12;false;Araraquara;São Paulo;SP;Brasil
+5fc05f949ce0e20021f96ebf;false;Betim;Minas Gerais;MG;Brasil
+5fc1287e9ce0e20021fca93a;false;Gurupi;Tocantins;TO;Brasil
+5fc194b7aa635e0021cabdda;false;Bertioga;São Paulo;SP;Brasil
+5fc3f585c11500002170faa8;false;Ipojuca;Pernambuco;PE;Brasil
+5fc3fcf8c115000021710da6;false;Gramado;Rio Grande do Sul;RS;Brasil
+5fc404ebc115000021711d8a;false;Cândido Sales;Bahia;BA;Brasil
+5fc8c948a91cbc0021c33353;false;Presidente Prudente;São Paulo;SP;Brasil
+5fcbe4231e28f6002127b0c3;false;Butantã;Bahia;BA;Brasil
+5fcd9b90f098ff002183efae;false;Paraty;Rio de Janeiro;RJ;Brasil
+5fce343df098ff0021847efa;false;Peruíbe;São Paulo;SP;Brasil
+5fcf64f31ad184002199431f;false;Dourados;Mato Grosso do Sul;MS;Brasil
+5fcfaf73c8d4e30021563887;false;Odilon Guimarães;Minas Gerais;MG;Brasil
+5fd506221b5f5a0021e62946;false;Cianorte;Paraná;PR;Brasil
+5fd75a3edf01d5002149fb93;false;Valença do Piauí;Piauí;PI;Brasil
+5fd8f4070eed7b0021c0aa16;false;Biritiba-Mirim;São Paulo;SP;Brasil
+5fdfd6ea4e12870021995a80;false;Campos do Jordão;São Paulo;SP;Brasil
+5fe09db14e128700219a184a;false;Tubarão;Santa Catarina;SC;Brasil
+5fe0da0c4e128700219ab504;false;Davinópolis;Maranhão;MA;Brasil
+5fe2065f707d8f0021a079c4;false;Ilhéus;Bahia;BA;Brasil
+5fe39330dc39840021325fe7;false;Tucumã;Pará;PA;Brasil
+5fe3bef9dc3984002132a1a7;false;Porto Seguro;Bahia;BA;Brasil
+5fe490fc1dd767002113ec88;false;Ibiaci;Paraná;PR;Brasil
+5fe61581799f0400210d55f1;false;Jacuí;Minas Gerais;MG;Brasil
+5fe63e2c799f0400210da589;false;Nova Lima;Minas Gerais;MG;Brasil
+5fe684c7799f0400210e2fac;false;Itaim Paulista;São Paulo;SP;Brasil
+5fe694e62e676f0021374e28;false;Ferraz de Vasconcelos;São Paulo;SP;Brasil
+5fe696e62e676f00213751e0;false;São Vicente;São Paulo;SP;Brasil
+5fe7e41fb776370021b1a2a1;false;Pelotas;Rio Grande do Sul;RS;Brasil
+5fe89513b776370021b26ae5;false;Aparecida;São Paulo;SP;Brasil
+5fe8b50ab776370021b2ae44;false;Matinhos;Paraná;PR;Brasil
+5fe8c955b776370021b2e933;false;São João da Boa Vista;São Paulo;SP;Brasil
+5fe92164b776370021b3c59d;false;Americana;São Paulo;SP;Brasil
+5fe9344cb776370021b3fa2b;false;Águas de Lindóia;São Paulo;SP;Brasil
+5fe93943f898410021b5a446;false;Caraguatatuba;São Paulo;SP;Brasil
+5feb1ee8bce0f700210d545c;false;Quadra;São Paulo;SP;Brasil
+5feb1f0bbce0f700210d547b;false;Porangaba;São Paulo;SP;Brasil
+5fefc0e4a0940f00213a7212;false;Flores da Cunha;Rio Grande do Sul;RS;Brasil
+5ff667f2d73d5200216ec23d;false;Corumbá;Mato Grosso do Sul;MS;Brasil
+5ff757b7d73d5200216f7943;false;São Leopoldo;Rio Grande do Sul;RS;Brasil
+5ffda4bfa7af3c00219aa9ec;false;Olímpia;São Paulo;SP;Brasil
+5ffdca1fa7af3c00219b28cf;false;Lauro de Freitas;Bahia;BA;Brasil
+6001ce69ac574400215ed781;false;Fortim;Ceará;CE;Brasil
+60025700ac574400215f692e;false;Canoas;Rio Grande do Sul;RS;Brasil
+6004ccc993f8f40021645d1f;false;Itapema;Santa Catarina;SC;Brasil
+6005b04852ef6700211515f8;false;Rio Grande;Rio Grande do Sul;RS;Brasil
+6006f43b0ec26c002124b337;false;Lençóis Paulista;São Paulo;SP;Brasil
+600dc87453bb7d0021e0ba26;false;Itaquera;Roraima;RR;Brasil
+60116f99a3ec39002160a1b4;false;Luziânia;Goiás;GO;Brasil
+60119626a3ec39002160bcc2;false;Goioxim;Paraná;PR;Brasil
+6012a4ea6193da0021d4f3d6;false;Vargem Grande Paulista;São Paulo;SP;Brasil
+601771fe89276200215148e5;false;Carangola;Minas Gerais;MG;Brasil
+6019e227630ed500216b5c99;false;Divino;Minas Gerais;MG;Brasil
+601ae140630ed500216c2dbe;false;Ubatuba;São Paulo;SP;Brasil
+602437a39f8c3b0021e74d53;false;Armação dos Búzios;Rio de Janeiro;RJ;Brasil
+602d193b1a40880021adef03;false;Santa Rosa;Rio Grande do Sul;RS;Brasil
+602dbaca438eab00216fb7ce;false;Artur Nogueira;São Paulo;SP;Brasil
+6030465f7ddee3002197dfba;false;Pilar;Alagoas;AL;Brasil
+60311a3d7ddee300219880d4;false;Araçatuba;São Paulo;SP;Brasil
+603198e0199d6000210494e7;false;São José;Santa Catarina;SC;Brasil
+603516a182d86e002183460c;false;São Luíz do Paraitinga;São Paulo;SP;Brasil
+6036dc28bbcec50021408c00;false;Ilha Comprida;São Paulo;SP;Brasil
+6037d5afbbcec50021415b19;false;Paranaguá;Paraná;PR;Brasil
+603965b6fa056600218ce4bb;false;Caçapava;São Paulo;SP;Brasil
+603a9a2e02a1eb00211dd32b;false;Cubatão;São Paulo;SP;Brasil
+603d49a0da404a00218cbdc3;false;Bonif;São Paulo;SP;Brasil
+603e79cac0f13e00219bdf6e;false;Francisco Morato;São Paulo;SP;Brasil
+603fa1e3a5ac090021d08693;false;Paço do Lumiar;Maranhão;MA;Brasil
+6042b79fa410850021e2a905;false;Iguape;São Paulo;SP;Brasil
+6043ddaee47cdf00215ce4a4;false;Tremembé;São Paulo;SP;Brasil
+604423d4e47cdf00215d424b;false;Cabo Verde;Minas Gerais;MG;Brasil
+60458ac01f2c9e00210f0a1f;false;Itapetininga;São Paulo;SP;Brasil
+6046915e1f2c9e00210ffadf;false;Pindamonhangaba;São Paulo;SP;Brasil
+6046c9a71f2c9e0021104dc1;false;Cariacica;Espírito Santo;ES;Brasil
+60477d8ff8e5850021de23e0;false;Glorinha;Rio Grande do Sul;RS;Brasil
+6048f393ee7b9c002174bdf3;false;Almirante Tamandaré;Paraná;PR;Brasil
+604a62e67dd0340021507796;false;Pirassununga;São Paulo;SP;Brasil
+604b98883fa7940021e89e93;false;Amparo;São Paulo;SP;Brasil
+604bdff73fa7940021e92106;false;Várzea Alegre;Ceará;CE;Brasil
+604d34fe877c3900212460b0;false;Santarém;Pará;PA;Brasil
+604f70ca4f648e00216a7d93;false;Desterro do Melo;Minas Gerais;MG;Brasil
+604f8eb5aa7c80002106f94a;false;Piracicaba;Minas Gerais;MG;Brasil
+60507979aa7c800021083b87;false;Jaboatão dos Guararapes;Pernambuco;PE;Brasil
+6050ad30aa7c8000210897d2;false;Três Lagoas;Mato Grosso do Sul;MS;Brasil
+605266b3a278070021481f78;false;Adamantina;São Paulo;SP;Brasil
+6053bd556653bc00214f8762;false;Iguatu;Ceará;CE;Brasil
+605696655bebd80021e0fa06;false;São Gonçalo do Amarante;Rio Grande do Norte;RN;Brasil
+6058cd6cb0c0ba00213e4476;false;Campo Belo;Minas Gerais;MG;Brasil
+6058ed9bb0c0ba00213ea544;false;Santo Antônio;Rio Grande do Norte;RN;Brasil
+6058fe72b0c0ba00213ee37a;false;Arapongas;Paraná;PR;Brasil
+605a0bed6fa4b800216ccaa0;false;Marechal Floriano;Espírito Santo;ES;Brasil
+605a73656fa4b800216dfc93;false;Sorriso;Mato Grosso;MT;Brasil
+605b6588b6a12e0021433d7f;false;Serra Talhada;Pernambuco;PE;Brasil
+605c7bd31bd5a2002171dd99;false;Campo Magro;Paraná;PR;Brasil
+605cd6231bd5a2002172f9a0;false;Ouro Preto;Minas Gerais;MG;Brasil
+605d34f65bb893002143b071;false;Ibiraci;Minas Gerais;MG;Brasil
+605da0625bb8930021440a7d;false;Mineiros;Goiás;GO;Brasil
+605e2b875bb89300214569b4;false;São João das Duas Pontes;São Paulo;SP;Brasil
+605e2b915bb89300214569f1;false;Fernandópolis;São Paulo;SP;Brasil
+605e30495bb8930021457ce6;false;Louveira;São Paulo;SP;Brasil
+605f1dab932a9f002161896a;false;Ibaté;São Paulo;SP;Brasil
+605f30ce932a9f002161bbae;false;Capela do Alto;São Paulo;SP;Brasil
+606028dcb5a7e600219aff96;false;Nilópolis;Rio de Janeiro;RJ;Brasil
+60607ca8b5a7e600219b5921;false;Benevides;Pará;PA;Brasil
+6060c1fdb5a7e600219bff47;false;Itajaí;Santa Catarina;SC;Brasil
+6061e86516a28d0021ee220a;false;Feira de Santana;Bahia;BA;Brasil
+6061fb8a16a28d0021ee6d2d;false;Xique-Xique;Bahia;BA;Brasil
+60622dff16a28d0021f00fb0;false;Paulínia;São Paulo;SP;Brasil

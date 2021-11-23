@@ -1,0 +1,110 @@
+tag_produtos_id;destacado;texto_display;tipo
+5f518972a4a5fbed86099752;true;Café da manhã;MOMENT
+5f5189c0a4a5fbed86099753;true;Café da tarde;MOMENT
+5f5189e9a4a5fbed86099754;true;Festas;MOMENT
+5f5189f8a4a5fbed86099755;false;Dia dos Namorados;MOMENT
+5f518a07a4a5fbed86099756;true;Presentes;MOMENT
+5f518a26a4a5fbed86099757;true;Bolos simples;TYPE
+5f518a38a4a5fbed86099758;true;Bolos recheados;TYPE
+5f518a49a4a5fbed86099759;true;Docinhos;TYPE
+5f518a56a4a5fbed8609975a;false;Muffins;TYPE
+5f518a63a4a5fbed8609975b;true;Brownies;TYPE
+5f518a77a4a5fbed8609975c;true;Tortas doces;TYPE
+5f518a85a4a5fbed8609975d;true;Kits;TYPE
+5f518a96a4a5fbed8609975f;false;Donuts;TYPE
+5f518a9da4a5fbed86099760;true;Bolos piscina;TYPE
+5f518aa4a4a5fbed86099761;true;Cupcakes;TYPE
+5f518aaba4a5fbed86099762;false;Panetones;TYPE
+5f518abba4a5fbed86099763;true;Chocolates;TYPE
+5f518ac6a4a5fbed86099764;false;Abacaxi;FLAVOUR
+5f518acba4a5fbed86099765;false;Banana;FLAVOUR
+5f518adba4a5fbed86099766;false;Brigadeiro;FLAVOUR
+5f518adfa4a5fbed86099767;false;Chocolate;FLAVOUR
+5f518ae3a4a5fbed86099768;false;Churros;FLAVOUR
+5f518ae9a4a5fbed86099769;false;Côco;FLAVOUR
+5f518aeda4a5fbed8609976a;false;Fubá;FLAVOUR
+5f518b00a4a5fbed8609976b;false;Laranja;FLAVOUR
+5f518b06a4a5fbed8609976c;false;Leite em pó;FLAVOUR
+5f518b10a4a5fbed8609976d;false;Doce de leite;FLAVOUR
+5f518b14a4a5fbed8609976e;false;Limão;FLAVOUR
+5f518b19a4a5fbed8609976f;false;Maçã;FLAVOUR
+5f518b1ea4a5fbed86099770;false;Milho;FLAVOUR
+5f518b22a4a5fbed86099771;false;Morango;FLAVOUR
+5f518b34a4a5fbed86099772;true;Sem glúten;RESTRICTION
+5f518b39a4a5fbed86099773;true;Sem lactose;RESTRICTION
+5f518b4ca4a5fbed86099774;true;Sem adição de açúcar;RESTRICTION
+5f518b54a4a5fbed86099775;true;Integrais;RESTRICTION
+5f518b58a4a5fbed86099776;true;Veganos;RESTRICTION
+5f518b65a4a5fbed86099777;true;Sem amendoim;RESTRICTION
+5f518ba9a4a5fbed86099778;false;Cenoura;FLAVOUR
+5f518bf1a4a5fbed8609977a;false;Prestígio;FLAVOUR
+5f518caaa4a5fbed8609977b;false;Dia dos Clientes;MOMENT
+5f518cc0a4a5fbed8609977c;false;Dia das Crianças;MOMENT
+5f60f2e865238f2ce580f490;false;Red Velvet;FLAVOUR
+5f60f31365238f2ce580f491;false;Formigueiro;FLAVOUR
+5f60f32f65238f2ce580f492;false;Bolos Vulcão;TYPE
+5f60f33b65238f2ce580f493;false;Cookies;TYPE
+5f60f38165238f2ce580f494;false;Baunilha;FLAVOUR
+5f60f3c565238f2ce580f495;false;Nozes;FLAVOUR
+5f60f3d465238f2ce580f496;false;Chocolate branco;FLAVOUR
+5f60f3e365238f2ce580f497;false;Iogurte;FLAVOUR
+5f60f43365238f2ce580f498;false;Leite condensado;FLAVOUR
+5f60f44165238f2ce580f499;false;Maracujá;FLAVOUR
+5f60f44b65238f2ce580f49a;false;Pêssego;FLAVOUR
+5f60f46b65238f2ce580f49b;false;Ameixa;FLAVOUR
+5f60f47a65238f2ce580f49c;false;Amendoim;FLAVOUR
+5f60f48f65238f2ce580f49d;false;Damasco;FLAVOUR
+5f60f49865238f2ce580f49e;false;Suspiro;FLAVOUR
+5f60f49d65238f2ce580f49f;false;Paçoca;FLAVOUR
+5f60f4a865238f2ce580f4a0;false;Chantilly;FLAVOUR
+5f635f0e3c03c7cef27a4d02;false;Cream Cheese;FLAVOUR
+5f635f253c03c7cef27a4d03;false;Creme de Avelã;FLAVOUR
+5f64b451980a9b1006694d36;false;Goiabada;FLAVOUR
+5f6a668b1b549e6bc9f3357f;false;Pudins;TYPE
+5f6a66b71b549e6bc9f33580;false;Cravo;FLAVOUR
+5f6a66da1b549e6bc9f33581;false;Canela;FLAVOUR
+5f6a66f41b549e6bc9f33582;false;Ganache;FLAVOUR
+5f6a67181b549e6bc9f33583;false;Buttercream;FLAVOUR
+5f6a76f89bec356fc2b48fc9;false;Cereja Amarena;FLAVOUR
+5f6a77429bec356fc2b48fca;false;Pistache;FLAVOUR
+5f73d5385501c98df4d1b2d6;false;Casamento;MOMENT
+5f73d5e05501c98df4d1b2d7;false;Outback™;MOMENT
+5f7b59a3eec72d1fa3d2e2a5;false;Halloween;MOMENT
+5f89b71aa3940196736a600b;false;Nescafé;MOMENT
+5f89b7aaa3940196736a600c;false;Amora;FLAVOUR
+5f89b7b0a3940196736a600d;false;Abóbora;FLAVOUR
+5f89b7c2a3940196736a600e;false;Uva;FLAVOUR
+5f89b7caa3940196736a600f;false;Kiwi;FLAVOUR
+5f89b7dda3940196736a6010;false;Frutas Vermelhas;FLAVOUR
+5fa171588fd4e053d1557852;false;Black Friday;MOMENT
+5fbe7292bb12608465252dd1;false;Natal;MOMENT
+5fce28e7e61e0fa928fab71a;false;Frete Grátis;MOMENT
+5fce858ecb8116c23b718a47;false;Champanhe;FLAVOUR
+5fce859ccb8116c23b718a48;false;Vinho;FLAVOUR
+5fce85b0cb8116c23b718a49;false;Matcha;FLAVOUR
+5fe0be8f317e690c6801ac93;false;4 Leites;FLAVOUR
+5fe3a3359216fb516704ef9e;false;Fit;MOMENT
+600875afb08ac81762b66e24;false;Pão Doce;TYPE
+60181ac2748a9a0f9365fd63;false;Receitas Nestlé;MOMENT
+602c0e8bca7ad914d28e4564;false;Caramelo Salgado;FLAVOUR
+602ff06aecfa8e1acafe4360;false;2021 Páscoa;MOMENT
+60462b879ae55a16bde0d73f;false;Ovos de Páscoa;TYPE
+604f9b687ae5ec35c65e5578;true;Produtos Pet;TYPE
+604f9ba07ae5ec35c65e5579;false;Gianduia;FLAVOUR
+604f9bda7ae5ec35c65e557a;false;Dragê;FLAVOUR
+604f9bf57ae5ec35c65e557b;false;Blueberry;FLAVOUR
+604f9c057ae5ec35c65e557c;false;Capim Santo;FLAVOUR
+6051f50f79164a062f9ee393;false;Marshmallow;FLAVOUR
+606f5c7ff1a5b337e0712888;false;Certificadas por VdB;MOMENT
+60745616d13c1516e183d9e0;true;Bolos de Pote;TYPE
+607456b1d13c1516e183d9e1;true;Fatias;TYPE
+607456e5d13c1516e183d9e2;false;Outros;TYPE
+607461da45f92520120e030d;false;Dia das Mães;MOMENT
+6086d85e652aec23bb5b5bdf;false;Menta;FLAVOUR
+60ad52dc3483623eb79dfc92;true;Promoções;MOMENT
+60b990f09b63630d50b6e941;false;Festa Junina;MOMENT
+60d8c4325974f90af80ffb58;false;Rapadura;FLAVOUR
+60d8c4445974f90af80ffb59;false;Castanha de caju;FLAVOUR
+60fb00433491cdcb9a66b793;false;Dia dos Pais;MOMENT
+611c3154c480febf85c95192;false;Casa Vem de Bolo;MOMENT
+61740d4377d7c8790188e35a;true;Bentô Cake;TYPE
